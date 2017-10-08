@@ -10,6 +10,9 @@ Copy / Pindahkan folder ini ke folder localhost anda
 
 # Greetzz:
 
-[x] hexacode [x] SHL [x] t1kus9ot [x] Indoxploit [x] and you
+[x] hexacode family [x] SHL [x] t1kus9ot [x] Indoxploit [x] and you
 
+# Writeup
+
+--coming soon
 
